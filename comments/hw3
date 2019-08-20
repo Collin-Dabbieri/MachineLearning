@@ -1,0 +1,2 @@
+- 1.A: What about Gaussian's returning negative values?
+- 2.C: We were looking for you to also translate the coordinates so that the new distribution centered at zero.  Also, with the way you calculated the new probabilities they should have been exactly equal as there is no randomness added.

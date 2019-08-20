@@ -1,0 +1,4 @@
+- 1.B & 1.C: These are missing.  Playing around with Ridge objects could have gotten you some points.
+- 2.A: We wanted you to fit a line to only the detected data, not all of it.
+- 2.B: It would have helped to 'zoom out' of your figure here.  I will count off slightly for this.
+- 2.C: The detected points were already supplied.  You apply an incorrect check to see which points were detected.  Again, a little zoom out would have been helpful.

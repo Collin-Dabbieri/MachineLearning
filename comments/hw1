@@ -1,0 +1,3 @@
+- 2.E wasn't in a function
+- 4.B: the car's position is supposed to be an attribute of the Car instance by setting `self.pos = 0` in the `__init__` function.  Your global pos method won't work if you have multiple cars and are trying to move them independently.
+- 6: you can set the shape of A with the right size argument passed

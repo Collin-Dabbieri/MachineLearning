@@ -1,0 +1,1 @@
+- 1: Fractional variance should sum to 1, I think there is a misunderstanding here.  You are just printing the eigenvalues.  Your plot is missing the color labels.  Your discussion can go a bit further.  I'm not sure that 2 components is enough to "accurately respresent the whole data set"
